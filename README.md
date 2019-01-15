@@ -10,13 +10,13 @@ Register with <a href="https://account.africastalking.com/auth/register">Africa'
 Access the sendSms.php file within this project. <b>sms africas talking</b> -> <b>sendSms.php</b>
 
 # Step 3
-change the <b>$username</b> and <b>$apikey</b> valuess according to the <b>username</b> and <b>api key</b> you have been given by Africa's Talking
+change the <b>"$username"</b> and <b>"$apikey"</b> valuess according to the <b>username</b> and <b>api key</b> you have been given by Africa's Talking
 
 # Step 4 
-Input the receipient phone number by changing the <b>$recipients</b> variable value. 
+Input the receipient phone number by changing the <b>"$recipients"</b> variable value. 
 
 # Step 5 
-Input the message you want to send to the users by changing the value in the <b>$message</b>variable.
+Input the message you want to send to the users by changing the value in the <b>"$message"</b>variable.
 
 <b>Note</b>
 To send to multiple users you can change the receipent to look as follows:
@@ -33,5 +33,10 @@ this should not alarm you, Use this link from stack Overflow <a href="https://st
 
 <B>NOTE : IF YOU ARE USING XAMPP </B> To alter / access php.ini file click on the desktop <b>xampp app</b>. 
 Under Apache there are four buttons on the right click on the <b>config button</b> then <b>PHP(php.ini)</b>
+
+# More Information
+There is so much you can do using this API and its not limited to sending, you can also recieve messages and so much more.
+For the complete documentation <a href="http://docs.africastalking.com/sms/sending">click here</a>
+
 
 
